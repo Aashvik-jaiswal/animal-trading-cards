@@ -1,0 +1,33 @@
+body{
+text-align:center;
+font-weight:bold;
+text-transform:uppercase;
+border:solid red;
+border-radius: 8px; 
+background-color:aliceblue;
+font-style:arial;
+
+}
+
+.information{
+font-weight:lighter;
+text-transform:lowercase;
+font-size:20px;
+}
+
+.line{
+height:6px;
+background-color: black;
+width: 70px;
+margin:6px auto;
+}
+
+#thanks{
+font-style:italic;
+font-size:15px;
+text-align: right;
+color:brown;
+}
+
+
+
